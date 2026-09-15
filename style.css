@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: rgb(25, 33, 36);
+}
+h1{
+    color: antiquewhite;
+}
+ 
+#Quiz {
+    background-color: rgb(10, 150, 232);
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+ 
+#question {
+    font-size: 24px;
+    margin: 20px;
+}
+ 
+button {
+    padding: 12px;
+    margin: 8px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+ 
+button:hover {
+    background-color: gray;
+}
+ 
+#resultat {
+    font-size: 20px;
+    margin-top: 20px;
+}
